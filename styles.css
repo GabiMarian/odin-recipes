@@ -1,4 +1,48 @@
+* {
+    font-family: monospace;
+}
+
 .heading {
-    background-color: blue;
+    background-color: rgb(32, 32, 255);
     color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 25%;
+}
+
+.para {
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+    background-color:rgb(39, 114, 228);
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.ingredients {
+    font-size: 18px;
+}
+
+.steps {
+    font-size: 18px;
+}
+
+.h1 {
+    font-size: 60px;
+}
+
+.h2 {
+    font-size: 40px;
+}
+
+.h3 {
+    font-size: 30px;
 }
