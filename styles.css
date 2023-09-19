@@ -7,7 +7,7 @@
     background-color: rgb(32, 32, 255);
     color: white;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 30px;
     padding: 10px;
 }
 
@@ -28,12 +28,46 @@
     padding: 20px;
 }
 
+.recipes {
+    font-size: 15px;
+    padding: 20px;
+}
+
+.recipe-link {
+    font-size: 30px;
+    display: inline-block;
+    margin: 20px;
+}
+
+a {
+    font-size: 30px;
+    
+}
+
 .ingredients {
     font-size: 18px;
+    background-color: rgb(39, 114, 228);
+    border-radius: 30px;
 }
 
 .steps {
     font-size: 18px;
+    background-color: rgb(39, 114, 228);
+    border-radius: 30px;
+    padding: 30px;
+}
+
+.list-item {
+    border-color: white;
+    border-radius: 30px;
+    padding: 15px;
+    color: white;
+    border: 3px solid;
+}
+
+.unordered {
+    display: inline-block;
+    margin: 10px;
 }
 
 .h1 {
